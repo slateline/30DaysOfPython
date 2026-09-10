@@ -1,0 +1,9 @@
+# VS Code workspace metadata
+.vscode/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
